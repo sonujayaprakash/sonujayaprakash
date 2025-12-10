@@ -61,4 +61,3 @@
 
 ---
 
-⚡ *“I build with purpose, learn with persistence, and ship with pride.”*  
